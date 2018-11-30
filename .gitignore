@@ -1,3 +1,8 @@
 .idea/
 *.csv
 .ipynb_checkpoints/
+__pycache__
+models/*
+report/*.aux
+report/*.log
+report/*.gz
